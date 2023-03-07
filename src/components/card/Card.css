@@ -1,0 +1,11 @@
+.display-card{
+    margin-top: 1rem;
+    border: 1px solid azure;
+    border-radius: 15px;
+}
+h3{
+    color: azure;
+}
+p{
+    color: azure;
+}

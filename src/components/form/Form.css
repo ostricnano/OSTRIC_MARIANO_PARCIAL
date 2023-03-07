@@ -1,0 +1,22 @@
+input{
+    width: 300px;
+    height: 25px;
+    border-radius: 50px;
+    margin: .5rem;
+    padding-left: 1rem;
+    box-shadow: 2px 2px 2px rgb(119, 136, 153,0.5);
+}
+fieldset{
+    border-radius: 15px;
+    color: whitesmoke;
+}
+button{
+    margin: 1rem;
+    box-shadow: 2px 2px 2px rgb(119, 136, 153,0.5);
+}
+button:hover{
+    background-color: lightgray;
+}
+p{
+    color: azure;
+}
